@@ -1,0 +1,265 @@
+n_row,period,event,away_line,home_line,description,minute,second,away_team,home_team
+1,1,PGSTR,,, ,20,00,S.J,L.A
+2,1,PGEND,,, ,20,00,S.J,L.A
+3,1,ANTHEM,,, ,20,00,S.J,L.A
+4,1,PSTR,C R L D D G,C L L D D G,Period Start- Local time: 7:07 PST,20,00,S.J,L.A
+5,1,FAC,C R L D D G,C L L D D G,L.A won Neu. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,20,00,S.J,L.A
+6,1,HIT,C C R D D G,C C L D D G,"S.J #28 MEIER HIT L.A #13 VILARDI, Off. Zone",19,19,S.J,L.A
+7,1,SHOT,C L L D D G,C C R D D G,"L.A ONGOAL - #91 GRUNDSTROM, Wrist, Off. Zone, 34 ft.",18,15,S.J,L.A
+8,1,STOP,C L L D D G,C C R D D G,GOALIE STOPPED (AFTER SOG),18,14,S.J,L.A
+9,1,FAC,C C L D D G,C R L D D G,S.J won Def. Zone - S.J #7 GAMBRELL vs L.A #24 ANDERSSON,18,14,S.J,L.A
+10,1,HIT,C C L D D G,C R L D D G,"L.A #27 WAGNER HIT S.J #88 BURNS, Off. Zone",18,04,S.J,L.A
+11,1,SHOT,C C L D D G,C R L D D G,"L.A ONGOAL - #64 LUFF, Wrist, Off. Zone, 54 ft.",17,56,S.J,L.A
+12,1,PENL,C C L D D G,C R L D D G,"S.J #88 BURNS Holding(2 min), Def. Zone Drawn By: L.A #24 ANDERSSON",17,52,S.J,L.A
+13,1,FAC,C L D D G,C L L L D G,L.A won Off. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,17,52,S.J,L.A
+14,1,MISS,C L D D G,C L L L D G,"L.A #8 DOUGHTY, Wrist, Wide of Net, Off. Zone, 53 ft.",17,47,S.J,L.A
+15,1,SHOT,C L D D G,C L L L D G,"L.A ONGOAL - #19 IAFALLO, Slap, Off. Zone, 34 ft.",17,31,S.J,L.A
+16,1,GOAL,C L D D G,C L L L D G,"L.A #11 KOPITAR(4), Snap, Off. Zone, 33 ft.Assists: #8 DOUGHTY(6); #23 BROWN(6)",17,13,S.J,L.A
+17,1,FAC,C C R D D G,C C L D D G,L.A won Neu. Zone - S.J #48 HERTL vs L.A #13 VILARDI,17,13,S.J,L.A
+18,1,HIT,C C R D D G,C C L D D G,"L.A #9 KEMPE HIT S.J #44 VLASIC, Off. Zone",17,06,S.J,L.A
+19,1,HIT,C C R D D G,C C L D D G,"S.J #71 KNYZHOV HIT L.A #13 VILARDI, Def. Zone",16,44,S.J,L.A
+20,1,HIT,C C R D D G,C C L D D G,"S.J #28 MEIER HIT L.A #33 BJORNFOT, Off. Zone",16,43,S.J,L.A
+21,1,PENL,C C R D D G,C C L D D G,"S.J #16 DONATO Unsportsmanlike conduct(2 min), Neu. Zone Drawn By: L.A #9 KEMPE",16,31,S.J,L.A
+22,1,PENL,C R D D G,C C L D D G,"L.A #9 KEMPE Unsportsmanlike conduct(2 min), Neu. Zone Drawn By: S.J #16 DONATO",16,31,S.J,L.A
+23,1,FAC,C L D D G,C L D D G,S.J won Def. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,16,31,S.J,L.A
+24,1,SHOT,C L D D G,C L D D G,"S.J ONGOAL - #9 KANE, Snap, Off. Zone, 12 ft.",16,12,S.J,L.A
+25,1,MISS,C R D D G,C C D D G,"S.J #88 BURNS, Wrist, Wide of Net, Off. Zone, 63 ft.",15,24,S.J,L.A
+26,1,SHOT,C C L D D G,C L L D D G,"S.J ONGOAL - #44 VLASIC, Slap, Off. Zone, 59 ft.",14,19,S.J,L.A
+27,1,STOP,C C L D D G,C L L D D G,PUCK IN NETTING,14,18,S.J,L.A
+28,1,FAC,C C R D D G,C L L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,14,18,S.J,L.A
+29,1,MISS,C C R D D G,C L L D D G,"S.J #16 DONATO, Wrist, Wide of Net, Off. Zone, 60 ft.",14,12,S.J,L.A
+30,1,HIT,C C R D D G,C L L D D G,"L.A #23 BROWN HIT S.J #51 SIMEK, Def. Zone",14,06,S.J,L.A
+31,1,HIT,C C R D D G,C L L D D G,"L.A #19 IAFALLO HIT S.J #65 KARLSSON, Def. Zone",13,51,S.J,L.A
+32,1,SHOT,C C L D D G,C C R D D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 10 ft.",13,07,S.J,L.A
+33,1,STOP,C C L D D G,C C R D D G,"GOALIE STOPPED (AFTER SOG),TV TIMEOUT",13,06,S.J,L.A
+34,1,FAC,C R L D D G,C C L D D G,S.J won Off. Zone - S.J #39 COUTURE vs L.A #13 VILARDI,13,06,S.J,L.A
+35,1,HIT,C R L D D G,C C L D D G,"S.J #62 LABANC HIT L.A #9 KEMPE, Off. Zone",12,43,S.J,L.A
+36,1,TAKE,C L L D D G,C R L D D G,"S.J TAKEAWAY - #65 KARLSSON, Off. Zone",12,05,S.J,L.A
+37,1,HIT,C L L D D G,C R L D D G,"L.A #64 LUFF HIT S.J #51 SIMEK, Def. Zone",12,02,S.J,L.A
+38,1,HIT,C L L D D G,C R L D D G,"S.J #83 NIETO HIT L.A #58 CLAGUE, Off. Zone",11,49,S.J,L.A
+39,1,HIT,C C R D D G,C L L D D G,"S.J #16 DONATO HIT L.A #23 BROWN, Off. Zone",11,02,S.J,L.A
+40,1,GIVE,C C L D D G,C C R D D G,"S.J GIVEAWAY - #44 VLASIC, Def. Zone",10,44,S.J,L.A
+41,1,GOAL,C C L D D G,C C R D D G,"L.A #91 GRUNDSTROM(3), Tip-In, Off. Zone, 9 ft.Assists: #28 ANDERSON-DOLAN(1); #71 STRAND(1)",10,35,S.J,L.A
+42,1,FAC,C R L D D G,C C L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs L.A #13 VILARDI,10,35,S.J,L.A
+43,1,GIVE,C R L D D G,C C L D D G,"L.A GIVEAWAY - #13 VILARDI, Def. Zone",9,59,S.J,L.A
+44,1,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #39 COUTURE, Snap, Off. Zone, 21 ft.",9,57,S.J,L.A
+45,1,STOP,C R L D D G,C C L D D G,"GOALIE STOPPED (AFTER SOG),TV TIMEOUT",9,55,S.J,L.A
+46,1,FAC,C L L D D G,C R L D D G,S.J won Off. Zone - S.J #7 GAMBRELL vs L.A #24 ANDERSSON,9,55,S.J,L.A
+47,1,PENL,C L L D D G,C R L D D G,"L.A #27 WAGNER Cross checking(2 min), Def. Zone Drawn By: S.J #20 SORENSEN",9,26,S.J,L.A
+48,1,FAC,C C R D D G,C L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,9,26,S.J,L.A
+49,1,SHOT,C C R D D G,C L D D G,"S.J ONGOAL - #48 HERTL, Backhand, Off. Zone, 6 ft.",9,04,S.J,L.A
+50,1,MISS,C C C R D G,C C D D G,"S.J #12 MARLEAU, Tip-In, Wide of Net, Off. Zone, 9 ft.",8,26,S.J,L.A
+51,1,SHOT,C C C R D G,C C D D G,"S.J ONGOAL - #62 LABANC, Snap, Off. Zone, 38 ft.",8,04,S.J,L.A
+52,1,MISS,C C C R D G,C C D D G,"S.J #38 FERRARO, Slap, Wide of Net, Off. Zone, 48 ft.",7,59,S.J,L.A
+53,1,MISS,C C C R D G,C C D D G,"S.J #39 COUTURE, Slap, Wide of Net, Off. Zone, 25 ft.",7,53,S.J,L.A
+54,1,MISS,C C R L D G,C C D D G,"S.J #9 KANE, Wrist, Wide of Net, Off. Zone, 40 ft.",7,35,S.J,L.A
+55,1,SHOT,C C R L D G,C C L D D G,"S.J ONGOAL - #62 LABANC, Wrist, Off. Zone, 25 ft.",7,25,S.J,L.A
+56,1,GOAL,C C R L D G,C C L D D G,"L.A #27 WAGNER(2), Backhand, Off. Zone, 8 ft.Assist: #33 BJORNFOT(1)",7,18,S.J,L.A
+57,1,FAC,C L L D D G,C C R D D G,S.J won Neu. Zone - S.J #7 GAMBRELL vs L.A #28 ANDERSON-DOLAN,7,18,S.J,L.A
+58,1,BLOCK,C L L D D G,C C R D D G,"S.J #65 KARLSSON BLOCKED BY  L.A #71 STRAND, Wrist, Def. Zone",7,00,S.J,L.A
+59,1,HIT,C L L D D G,C C R D D G,"S.J #7 GAMBRELL HIT L.A #71 STRAND, Off. Zone",6,59,S.J,L.A
+60,1,STOP,C L L D D G,C C R D D G,ICING,6,54,S.J,L.A
+61,1,FAC,C C L D D G,C R R D D G,S.J won Off. Zone - S.J #12 MARLEAU vs L.A #28 ANDERSON-DOLAN,6,54,S.J,L.A
+62,1,BLOCK,C C L D D G,C R L D D G,"S.J #73 GREGOR BLOCKED BY  L.A #71 STRAND, Wrist, Def. Zone",6,43,S.J,L.A
+63,1,HIT,C C L D D G,C R L D D G,"S.J #43 LEONARD HIT L.A #11 KOPITAR, Off. Zone",6,37,S.J,L.A
+64,1,SHOT,C C L D D G,C R L D D G,"S.J ONGOAL - #43 LEONARD, Wrist, Off. Zone, 66 ft.",6,24,S.J,L.A
+65,1,STOP,C C R D D G,C C L D D G,"OFFSIDE,TV TIMEOUT",5,45,S.J,L.A
+66,1,FAC,C R L D D G,C C L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs L.A #77 CARTER,5,45,S.J,L.A
+67,1,MISS,C R L D D G,C C L D D G,"S.J #62 LABANC, Tip-In, Wide of Net, Off. Zone, 12 ft.",5,33,S.J,L.A
+68,1,HIT,C R L D D G,C C L D D G,"S.J #51 SIMEK HIT L.A #77 CARTER, Neu. Zone",5,18,S.J,L.A
+69,1,SHOT,C L L D D G,C C R D D G,"L.A ONGOAL - #58 CLAGUE, Wrist, Off. Zone, 55 ft.",4,57,S.J,L.A
+70,1,GIVE,C L L D D G,C C R D D G,"S.J GIVEAWAY - #20 SORENSEN, Def. Zone",4,46,S.J,L.A
+71,1,HIT,C L L D D G,C C R D D G,"L.A #33 BJORNFOT HIT S.J #20 SORENSEN, Def. Zone",4,34,S.J,L.A
+72,1,MISS,C L L D D G,C C R D D G,"S.J #88 BURNS, Wrist, Wide of Net, Off. Zone, 30 ft.",4,14,S.J,L.A
+73,1,MISS,C L L D D G,C C R D D G,"S.J #88 BURNS, Snap, Wide of Net, Off. Zone, 54 ft.",4,10,S.J,L.A
+74,1,STOP,C L L D D G,C C R D D G,PUCK FROZEN,4,09,S.J,L.A
+75,1,FAC,C C L D D G,C R L D D G,S.J won Off. Zone - S.J #12 MARLEAU vs L.A #24 ANDERSSON,4,09,S.J,L.A
+76,1,MISS,C C L D D G,C R L D D G,"S.J #73 GREGOR, Wrist, Wide of Net, Off. Zone, 58 ft.",4,05,S.J,L.A
+77,1,BLOCK,C C C D D G,C L L D D G,"S.J #48 HERTL BLOCKED BY  L.A #71 STRAND, Wrist, Def. Zone",3,36,S.J,L.A
+78,1,GOAL,C C C D D G,C L L D D G,"S.J #48 HERTL(4), Wrist, Off. Zone, 15 ft.Assists: #71 KNYZHOV(2); #44 VLASIC(1)",3,35,S.J,L.A
+79,1,FAC,C C R D D G,C L L D D G,L.A won Neu. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,3,35,S.J,L.A
+80,1,STOP,C R L D D G,C L L D D G,ICING,3,06,S.J,L.A
+81,1,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,3,06,S.J,L.A
+82,1,MISS,C R L D D G,C L L D D G,"S.J #9 KANE, Slap, Wide of Net, Off. Zone, 53 ft.",3,01,S.J,L.A
+83,1,BLOCK,C R L D D G,C L L D D G,"S.J #88 BURNS BLOCKED BY  L.A #44 ANDERSON, Wrist, Def. Zone",2,42,S.J,L.A
+84,1,TAKE,C R L D D G,C C L D D G,"S.J TAKEAWAY - #9 KANE, Off. Zone",2,17,S.J,L.A
+85,1,MISS,C R L D D G,C C L D D G,"S.J #65 KARLSSON, Wrist, Wide of Net, Off. Zone, 30 ft.",2,13,S.J,L.A
+86,1,HIT,C R L D D G,C C L D D G,"S.J #62 LABANC HIT L.A #58 CLAGUE, Off. Zone",2,01,S.J,L.A
+87,1,MISS,C R L D D G,C C L D D G,"S.J #9 KANE, Wrist, Wide of Net, Off. Zone, 59 ft.",1,59,S.J,L.A
+88,1,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #65 KARLSSON, Wrist, Off. Zone, 21 ft.",1,58,S.J,L.A
+89,1,STOP,C R L D D G,C C L D D G,GOALIE STOPPED (AFTER SOG),1,57,S.J,L.A
+90,1,FAC,C L L D D G,C C R D D G,S.J won Off. Zone - S.J #12 MARLEAU vs L.A #28 ANDERSON-DOLAN,1,57,S.J,L.A
+91,1,BLOCK,C L L D D G,C C R D D G,"S.J #20 SORENSEN BLOCKED BY  L.A #71 STRAND, Wrist, Def. Zone",1,49,S.J,L.A
+92,1,BLOCK,C L L D D G,C C R D D G,"S.J #65 KARLSSON BLOCKED BY  L.A #6 MAATTA, Wrist, Def. Zone",1,39,S.J,L.A
+93,1,MISS,C L L D D G,C C R D D G,"S.J #65 KARLSSON, Wrist, Wide of Net, Off. Zone, 50 ft.",1,38,S.J,L.A
+94,1,STOP,C L L D D G,C C R D D G,PUCK IN BENCHES,1,35,S.J,L.A
+95,1,FAC,C C R D D G,C L L D D G,L.A won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,1,35,S.J,L.A
+96,1,BLOCK,C C R D D G,C L L D D G,"L.A #8 DOUGHTY BLOCKED BY  S.J #16 DONATO, Slap, Def. Zone",1,30,S.J,L.A
+97,1,MISS,C R L D D G,C C L D D G,"S.J #62 LABANC, Slap, Wide of Net, Off. Zone, 59 ft.",0,28,S.J,L.A
+98,1,PEND,C R L D D G,C C L D D G,Period End- Local time: 7:44 PST,0,00,S.J,L.A
+99,2,PSTR,,,Period Start- Local time: 8:03 PST,20,00,S.J,L.A
+100,2,FAC,C R L D D G,C L L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,20,00,S.J,L.A
+101,2,SHOT,C R L D D G,C C L D D G,"L.A ONGOAL - #9 KEMPE, Snap, Off. Zone, 34 ft.",19,07,S.J,L.A
+102,2,HIT,C R L D D G,C C L D D G,"S.J #39 COUTURE HIT L.A #9 KEMPE, Def. Zone",19,06,S.J,L.A
+103,2,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #28 MEIER, Wrist, Off. Zone, 25 ft.",18,51,S.J,L.A
+104,2,STOP,C R L D D G,C C L D D G,GOALIE STOPPED (AFTER SOG),18,50,S.J,L.A
+105,2,FAC,C C R D D G,C C L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #13 VILARDI,18,50,S.J,L.A
+106,2,SHOT,C C R D D G,C C L D D G,"L.A ONGOAL - #33 BJORNFOT, Wrist, Neu. Zone, 84 ft.",18,39,S.J,L.A
+107,2,STOP,C C R D D G,C C L D D G,GOALIE STOPPED (AFTER SOG),18,38,S.J,L.A
+108,2,FAC,C C R D D G,C C R D D G,L.A won Off. Zone - S.J #48 HERTL vs L.A #28 ANDERSON-DOLAN,18,38,S.J,L.A
+109,2,HIT,C C R D D G,C C R D D G,"S.J #16 DONATO HIT L.A #71 STRAND, Def. Zone",18,31,S.J,L.A
+110,2,MISS,C C R D D G,C C R D D G,"L.A #6 MAATTA, Tip-In, Wide of Net, Off. Zone, 10 ft.",18,23,S.J,L.A
+111,2,SHOT,C C R D D G,C C R D D G,"L.A ONGOAL - #6 MAATTA, Backhand, Off. Zone, 6 ft.",18,22,S.J,L.A
+112,2,HIT,C C R D D G,C C R D D G,"S.J #28 MEIER HIT L.A #91 GRUNDSTROM, Def. Zone",18,13,S.J,L.A
+113,2,HIT,C L L D D G,C R L D D G,"L.A #24 ANDERSSON HIT S.J #44 VLASIC, Neu. Zone",17,42,S.J,L.A
+114,2,MISS,C L L D D G,C R L D D G,"S.J #71 KNYZHOV, Slap, Wide of Net, Off. Zone, 60 ft.",17,31,S.J,L.A
+115,2,SHOT,C L L D D G,C R L D D G,"L.A ONGOAL - #11 KOPITAR, Slap, Off. Zone, 28 ft.",16,54,S.J,L.A
+116,2,STOP,C L L D D G,C L L D D G,ICING,16,46,S.J,L.A
+117,2,FAC,C L L D D G,C L L D D G,S.J won Def. Zone - S.J #7 GAMBRELL vs L.A #11 KOPITAR,16,46,S.J,L.A
+118,2,SHOT,C C L D D G,C L L D D G,"L.A ONGOAL - #19 IAFALLO, Slap, Off. Zone, 27 ft.",16,25,S.J,L.A
+119,2,MISS,C C L D D G,C L L D D G,"L.A #23 BROWN, Wrist, Wide of Net, Off. Zone, 21 ft.",16,14,S.J,L.A
+120,2,HIT,C C L D D G,C R L D D G,"S.J #73 GREGOR HIT L.A #11 KOPITAR, Off. Zone",15,58,S.J,L.A
+121,2,HIT,C R L D D G,C C R D D G,"L.A #91 GRUNDSTROM HIT S.J #43 LEONARD, Neu. Zone",15,42,S.J,L.A
+122,2,GIVE,C R L D D G,C C R D D G,"L.A GIVEAWAY - #12 MOORE, Neu. Zone",15,30,S.J,L.A
+123,2,SHOT,C C R D D G,C C L D D G,"L.A ONGOAL - #13 VILARDI, Wrist, Off. Zone, 19 ft.",14,34,S.J,L.A
+124,2,MISS,C C R D D G,C C L D D G,"L.A #71 STRAND, Wrist, Wide of Net, Off. Zone, 58 ft.",14,31,S.J,L.A
+125,2,BLOCK,C C R D D G,C L L D D G,"L.A #71 STRAND BLOCKED BY  S.J #48 HERTL, Wrist, Def. Zone",14,19,S.J,L.A
+126,2,SHOT,C C R D D G,C L L D D G,"L.A ONGOAL - #19 IAFALLO, Snap, Off. Zone, 27 ft.",14,05,S.J,L.A
+127,2,MISS,C L L D D G,C R L D D G,"L.A #64 LUFF, Snap, Wide of Net, Off. Zone, 46 ft.",13,35,S.J,L.A
+128,2,SHOT,C L L D D G,C R L D D G,"L.A ONGOAL - #27 WAGNER, Slap, Off. Zone, 34 ft.",12,57,S.J,L.A
+129,2,GIVE,C L L D D G,C R L D D G,"S.J GIVEAWAY - #7 GAMBRELL, Def. Zone",12,56,S.J,L.A
+130,2,BLOCK,C L L D D G,C R L D D G,"L.A #44 ANDERSON BLOCKED BY  S.J #20 SORENSEN, Wrist, Def. Zone",12,52,S.J,L.A
+131,2,HIT,C C L D D G,C C R D D G,"L.A #44 ANDERSON HIT S.J #73 GREGOR, Def. Zone",12,13,S.J,L.A
+132,2,HIT,C C L D D G,C C R D D G,"S.J #51 SIMEK HIT L.A #28 ANDERSON-DOLAN, Def. Zone",11,59,S.J,L.A
+133,2,SHOT,C R L D D G,C C L D D G,"L.A ONGOAL - #58 CLAGUE, Wrist, Off. Zone, 31 ft.",11,43,S.J,L.A
+134,2,STOP,C R L D D G,C C L D D G,"GOALIE STOPPED (AFTER SOG),TV TIMEOUT",11,42,S.J,L.A
+135,2,FAC,C R L D D G,C C L D D G,L.A won Off. Zone - S.J #39 COUTURE vs L.A #13 VILARDI,11,42,S.J,L.A
+136,2,BLOCK,C R L D D G,C C L D D G,"L.A #9 KEMPE BLOCKED BY  S.J #39 COUTURE, Wrist, Def. Zone",11,36,S.J,L.A
+137,2,HIT,C R L D D G,C C L D D G,"S.J #39 COUTURE HIT L.A #13 VILARDI, Def. Zone",11,19,S.J,L.A
+138,2,SHOT,C R L D D G,C C L D D G,"L.A ONGOAL - #9 KEMPE, Wrist, Off. Zone, 39 ft.",11,18,S.J,L.A
+139,2,PENL,C R L D D G,C C L D D G,"S.J #38 FERRARO Interference(2 min), Def. Zone Drawn By: L.A #77 CARTER",11,16,S.J,L.A
+140,2,FAC,C L D D G,C L L L D G,L.A won Off. Zone - S.J #7 GAMBRELL vs L.A #11 KOPITAR,11,16,S.J,L.A
+141,2,MISS,C L D D G,C L L L D G,"L.A #23 BROWN, Wrist, Wide of Net, Off. Zone, 29 ft.",10,53,S.J,L.A
+142,2,SHOT,C L D D G,C L L L D G,"L.A ONGOAL - #9 KEMPE, Wrist, Off. Zone, 49 ft.",10,40,S.J,L.A
+143,2,MISS,C L D D G,C L L L D G,"L.A #23 BROWN, Tip-In, Wide of Net, Off. Zone, 10 ft.",10,29,S.J,L.A
+144,2,GIVE,C L D D G,C C C R D G,"S.J GIVEAWAY - #88 BURNS, Def. Zone",9,47,S.J,L.A
+145,2,SHOT,C R L D D G,C C R L D G,"L.A ONGOAL - #27 WAGNER, Backhand, Off. Zone, 9 ft.",9,03,S.J,L.A
+146,2,STOP,C R L D D G,C R L D D G,"PUCK FROZEN,TV TIMEOUT",8,55,S.J,L.A
+147,2,FAC,C R L D D G,C L L D D G,S.J won Def. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,8,55,S.J,L.A
+148,2,STOP,C R L D D G,C L L D D G,PUCK FROZEN,8,41,S.J,L.A
+149,2,FAC,C C R D D G,C C L D D G,L.A won Def. Zone - S.J #48 HERTL vs L.A #13 VILARDI,8,41,S.J,L.A
+150,2,MISS,C C R D D G,C C L D D G,"L.A #13 VILARDI, Wrist, Wide of Net, Off. Zone, 13 ft.",8,21,S.J,L.A
+151,2,SHOT,C C R D D G,C C L D D G,"S.J ONGOAL - #65 KARLSSON, Wrist, Def. Zone, 182 ft.",8,10,S.J,L.A
+152,2,HIT,C C R D D G,C C L D D G,"L.A #77 CARTER HIT S.J #48 HERTL, Off. Zone",8,00,S.J,L.A
+153,2,MISS,C C L D D G,C C R D D G,"L.A #12 MOORE, Wrist, Wide of Net, Off. Zone, 25 ft.",7,24,S.J,L.A
+154,2,HIT,C C L D D G,C C R D D G,"S.J #73 GREGOR HIT L.A #33 BJORNFOT, Off. Zone",7,03,S.J,L.A
+155,2,STOP,C L L D D G,C R L D D G,PUCK IN NETTING,6,22,S.J,L.A
+156,2,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #39 COUTURE vs L.A #23 BROWN,6,22,S.J,L.A
+157,2,HIT,C R L D D G,C L L D D G,"S.J #39 COUTURE HIT L.A #8 DOUGHTY, Off. Zone",6,08,S.J,L.A
+158,2,HIT,C R L D D G,C L L D D G,"S.J #9 KANE HIT L.A #19 IAFALLO, Def. Zone",5,39,S.J,L.A
+159,2,MISS,C C R D D G,C C L D D G,"L.A #9 KEMPE, Wrist, Wide of Net, Off. Zone, 41 ft.",4,47,S.J,L.A
+160,2,HIT,C C R D D G,C C L D D G,"S.J #16 DONATO HIT L.A #58 CLAGUE, Def. Zone",4,44,S.J,L.A
+161,2,STOP,C C R D D G,C C R D D G,TV TIMEOUT,4,16,S.J,L.A
+162,2,PENL,C C R D D G,C L L L D G,"S.J TEAM Too many men/ice - bench(2 min) Served By: #16 DONATO, Neu. Zone",4,16,S.J,L.A
+163,2,FAC,C L D D G,C L L L D G,L.A won Off. Zone - S.J #7 GAMBRELL vs L.A #11 KOPITAR,4,16,S.J,L.A
+164,2,SHOT,C L D D G,C L L L D G,"S.J ONGOAL - #39 COUTURE, Snap, Off. Zone, 16 ft.",3,26,S.J,L.A
+165,2,TAKE,C L D D G,C L L L D G,"S.J TAKEAWAY - #9 KANE, Off. Zone",3,23,S.J,L.A
+166,2,PENL,C L D D G,C L L L D G,"L.A #9 KEMPE Slashing(2 min), Def. Zone Drawn By: S.J #39 COUTURE",3,23,S.J,L.A
+167,2,FAC,C L D D G,C C D D G,S.J won Off. Zone - S.J #9 KANE vs L.A #13 VILARDI,3,23,S.J,L.A
+168,2,SHOT,C C C D D G,C C D D G,"S.J ONGOAL - #39 COUTURE, Wrist, Off. Zone, 29 ft.",2,12,S.J,L.A
+169,2,GOAL,C C C D D G,C C D D G,"S.J #48 HERTL(5), Wrist, Off. Zone, 11 ft.Assists: #39 COUTURE(5); #65 KARLSSON(4)",2,11,S.J,L.A
+170,2,FAC,C L L D D G,C R L D D G,L.A won Neu. Zone - S.J #7 GAMBRELL vs L.A #24 ANDERSSON,2,11,S.J,L.A
+171,2,MISS,C L L D D G,C R L D D G,"S.J #88 BURNS, Slap, Wide of Net, Off. Zone, 64 ft.",1,38,S.J,L.A
+172,2,MISS,C L L D D G,C R L D D G,"S.J #44 VLASIC, Wrist, Over Net, Off. Zone, 60 ft.",1,27,S.J,L.A
+173,2,SHOT,C C R D D G,C R L D D G,"S.J ONGOAL - #51 SIMEK, Wrist, Off. Zone, 33 ft.",1,05,S.J,L.A
+174,2,STOP,C C R D D G,C R L D D G,GOALIE STOPPED (AFTER SOG),1,04,S.J,L.A
+175,2,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,1,04,S.J,L.A
+176,2,SHOT,C R L D D G,C L L D D G,"S.J ONGOAL - #65 KARLSSON, Wrist, Off. Zone, 64 ft.",0,53,S.J,L.A
+177,2,MISS,C R L D D G,C L L D D G,"S.J #9 KANE, Tip-In, Wide of Net, Off. Zone, 8 ft.",0,51,S.J,L.A
+178,2,HIT,C R L D D G,C L L D D G,"S.J #51 SIMEK HIT L.A #23 BROWN, Def. Zone",0,40,S.J,L.A
+179,2,STOP,C R L D D G,C L L D D G,OFFSIDE,0,20,S.J,L.A
+180,2,FAC,C C R D D G,C C L D D G,S.J won Neu. Zone - S.J #48 HERTL vs L.A #13 VILARDI,0,20,S.J,L.A
+181,2,HIT,C C R D D G,C C L D D G,"S.J #48 HERTL HIT L.A #9 KEMPE, Off. Zone",0,02,S.J,L.A
+182,2,PEND,C C R D D G,C C L D D G,Period End- Local time: 8:37 PST,0,00,S.J,L.A
+183,3,PSTR,,,Period Start- Local time: 8:56 PST,20,00,S.J,L.A
+184,3,FAC,C R L D D G,C L L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,20,00,S.J,L.A
+185,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #48 HERTL, Wrist, Off. Zone, 38 ft.",19,08,S.J,L.A
+186,3,STOP,C R L D D G,C C L D D G,PUCK IN BENCHES,18,50,S.J,L.A
+187,3,FAC,C C C D D G,C C R D D G,S.J won Neu. Zone - S.J #12 MARLEAU vs L.A #28 ANDERSON-DOLAN,18,50,S.J,L.A
+188,3,MISS,C C C D D G,C C R D D G,"L.A #12 MOORE, Wrist, Wide of Net, Off. Zone, 19 ft.",18,12,S.J,L.A
+189,3,BLOCK,C R L D D G,C L L D D G,"S.J #38 FERRARO BLOCKED BY  L.A #11 KOPITAR, Wrist, Def. Zone",16,59,S.J,L.A
+190,3,STOP,C R L D D G,C L L D D G,OFFSIDE,16,57,S.J,L.A
+191,3,FAC,C R L D D G,C L L D D G,L.A won Neu. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,16,57,S.J,L.A
+192,3,SHOT,C R L D D G,C L L D D G,"L.A ONGOAL - #23 BROWN, Wrist, Neu. Zone, 94 ft.",16,27,S.J,L.A
+193,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #65 KARLSSON, Snap, Off. Zone, 58 ft.",16,10,S.J,L.A
+194,3,BLOCK,C R L D D G,C C L D D G,"S.J #28 MEIER BLOCKED BY  L.A #77 CARTER, Wrist, Def. Zone",15,50,S.J,L.A
+195,3,MISS,C R L D D G,C C L D D G,"S.J #65 KARLSSON, Wrist, Wide of Net, Off. Zone, 50 ft.",15,45,S.J,L.A
+196,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #28 MEIER, Wrist, Off. Zone, 57 ft.",15,39,S.J,L.A
+197,3,STOP,C R L D D G,C C L D D G,PUCK IN NETTING,15,38,S.J,L.A
+198,3,FAC,C C C D D G,C C R D D G,L.A won Def. Zone - S.J #12 MARLEAU vs L.A #28 ANDERSON-DOLAN,15,38,S.J,L.A
+199,3,GIVE,C C C D D G,C C R D D G,"S.J GIVEAWAY - #65 KARLSSON, Def. Zone",15,14,S.J,L.A
+200,3,GOAL,C C C D D G,C C R D D G,"L.A #28 ANDERSON-DOLAN(2), Wrist, Off. Zone, 12 ft.Assists: #12 MOORE(5); #91 GRUNDSTROM(1)",15,09,S.J,L.A
+201,3,FAC,C L L D D G,C R L D D G,L.A won Neu. Zone - S.J #7 GAMBRELL vs L.A #24 ANDERSSON,15,09,S.J,L.A
+202,3,SHOT,C L L D D G,C R L D D G,"L.A ONGOAL - #6 MAATTA, Wrist, Neu. Zone, 117 ft.",15,01,S.J,L.A
+203,3,STOP,C L L D D G,C R L D D G,GOALIE STOPPED (AFTER SOG),15,00,S.J,L.A
+204,3,FAC,C L L D D G,C R L D D G,S.J won Def. Zone - S.J #7 GAMBRELL vs L.A #24 ANDERSSON,15,00,S.J,L.A
+205,3,GIVE,C L L D D G,C R L D D G,"L.A GIVEAWAY - #6 MAATTA, Def. Zone",14,42,S.J,L.A
+206,3,SHOT,C L L D D G,C R L D D G,"S.J ONGOAL - #44 VLASIC, Wrist, Off. Zone, 59 ft.",14,41,S.J,L.A
+207,3,PENL,C R L D D G,C L L D D G,"S.J #9 KANE Slashing(2 min), Off. Zone Drawn By: L.A #44 ANDERSON",14,10,S.J,L.A
+208,3,FAC,C L D D G,C L L L D G,L.A won Off. Zone - S.J #7 GAMBRELL vs L.A #11 KOPITAR,14,10,S.J,L.A
+209,3,SHOT,C L D D G,C L L L D G,"L.A ONGOAL - #9 KEMPE, Slap, Off. Zone, 50 ft.",14,03,S.J,L.A
+210,3,GOAL,C L D D G,C L L L D G,"L.A #19 IAFALLO(3), Backhand, Off. Zone, 21 ft.Assists: #9 KEMPE(5); #8 DOUGHTY(7)",14,02,S.J,L.A
+211,3,PENL,C L L D D G,C L L L D G,"S.J #88 BURNS Hi-sticking(2 min), Def. Zone Drawn By: L.A #23 BROWN",14,02,S.J,L.A
+212,3,STOP,C L L D G,C L L L D G,CHLG VIS - GOAL INTERFERENCE,14,02,S.J,L.A
+213,3,CHL,C L L D G,C L L L D G,S.J Challenge - Interference on goalie -  Result: Goal upheld,14,02,S.J,L.A
+214,3,PENL,C L L D G,C L L L D G,"S.J TEAM Delay Game - Unsucc chlg(2 min) Served By: #28 MEIER, Def. Zone",14,02,S.J,L.A
+215,3,FAC,C D D G,C C L L D G,L.A won Neu. Zone - S.J #39 COUTURE vs L.A #11 KOPITAR,14,02,S.J,L.A
+216,3,GOAL,C D D G,C C L L D G,"L.A #77 CARTER(2), Slap, Off. Zone, 25 ft.Assists: #11 KOPITAR(13); #8 DOUGHTY(8)",13,04,S.J,L.A
+217,3,FAC,L L D D G,C C C R D G,S.J won Neu. Zone - S.J #20 SORENSEN vs L.A #13 VILARDI,13,04,S.J,L.A
+218,3,SHOT,L L D D G,C C C R D G,"L.A ONGOAL - #58 CLAGUE, Slap, Off. Zone, 63 ft.",12,32,S.J,L.A
+219,3,MISS,C C D D G,C C R D D G,"L.A #8 DOUGHTY, Wrist, Wide of Net, Off. Zone, 38 ft.",12,10,S.J,L.A
+220,3,BLOCK,C C R D D G,C C R D D G,"L.A #28 ANDERSON-DOLAN BLOCKED BY  S.J #48 HERTL, Wrist, Def. Zone",12,02,S.J,L.A
+221,3,STOP,C C R D D G,C C R D D G,PUCK IN NETTING,12,01,S.J,L.A
+222,3,FAC,C C C D D G,C R L D D G,S.J won Def. Zone - S.J #7 GAMBRELL vs L.A #27 WAGNER,12,01,S.J,L.A
+223,3,STOP,C R L D D G,C L L D D G,ICING,11,14,S.J,L.A
+224,3,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,11,14,S.J,L.A
+225,3,SHOT,C R L D D G,C L L D D G,"S.J ONGOAL - #28 MEIER, Snap, Off. Zone, 50 ft.",11,09,S.J,L.A
+226,3,GIVE,C R L D D G,C L L D D G,"L.A GIVEAWAY - #6 MAATTA, Def. Zone",10,40,S.J,L.A
+227,3,BLOCK,C R L D D G,C C L D D G,"S.J #62 LABANC BLOCKED BY  L.A #33 BJORNFOT, Wrist, Def. Zone",10,20,S.J,L.A
+228,3,HIT,C R L D D G,C C L D D G,"L.A #9 KEMPE HIT S.J #9 KANE, Def. Zone",10,13,S.J,L.A
+229,3,SHOT,C C C D D G,C C R D D G,"S.J ONGOAL - #16 DONATO, Wrist, Off. Zone, 48 ft.",9,29,S.J,L.A
+230,3,SHOT,C C C D D G,C C R D D G,"S.J ONGOAL - #12 MARLEAU, Snap, Off. Zone, 18 ft.",9,26,S.J,L.A
+231,3,HIT,C C C D D G,C C R D D G,"L.A #8 DOUGHTY HIT S.J #16 DONATO, Neu. Zone",9,12,S.J,L.A
+232,3,STOP,C C C D D G,C C R D D G,"OFFSIDE,TV TIMEOUT",9,11,S.J,L.A
+233,3,FAC,C L L D D G,C C R D D G,L.A won Neu. Zone - S.J #7 GAMBRELL vs L.A #28 ANDERSON-DOLAN,9,11,S.J,L.A
+234,3,SHOT,C L L D D G,C C R D D G,"L.A ONGOAL - #71 STRAND, Slap, Neu. Zone, 82 ft.",9,05,S.J,L.A
+235,3,SHOT,C L L D D G,C C R D D G,"S.J ONGOAL - #88 BURNS, Wrist, Off. Zone, 61 ft.",8,33,S.J,L.A
+236,3,STOP,C L L D D G,C C R D D G,GOALIE STOPPED (AFTER SOG),8,32,S.J,L.A
+237,3,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,8,32,S.J,L.A
+238,3,MISS,C R L D D G,C L L D D G,"S.J #28 MEIER, Wrist, Wide of Net, Off. Zone, 57 ft.",8,24,S.J,L.A
+239,3,SHOT,C R L D D G,C L L D D G,"S.J ONGOAL - #71 KNYZHOV, Snap, Off. Zone, 48 ft.",8,20,S.J,L.A
+240,3,SHOT,C R L D D G,C C L D D G,"L.A ONGOAL - #9 KEMPE, Wrist, Def. Zone, 139 ft.",7,28,S.J,L.A
+241,3,STOP,C R L D D G,C C L D D G,"HIGH STICK,TV TIMEOUT",7,25,S.J,L.A
+242,3,FAC,C C C D D G,C C R D D G,L.A won Neu. Zone - S.J #12 MARLEAU vs L.A #28 ANDERSON-DOLAN,7,25,S.J,L.A
+243,3,HIT,C C C D D G,C C R D D G,"L.A #91 GRUNDSTROM HIT S.J #51 SIMEK, Off. Zone",7,07,S.J,L.A
+244,3,SHOT,C C C D D G,C R L D D G,"L.A ONGOAL - #58 CLAGUE, Wrist, Def. Zone, 182 ft.",6,37,S.J,L.A
+245,3,HIT,C C L D D G,C R L D D G,"L.A #27 WAGNER HIT S.J #38 FERRARO, Off. Zone",6,16,S.J,L.A
+246,3,SHOT,C C L D D G,C L L D D G,"L.A ONGOAL - #27 WAGNER, Slap, Off. Zone, 37 ft.",6,05,S.J,L.A
+247,3,STOP,C L L D D G,C L L D D G,ICING,5,37,S.J,L.A
+248,3,FAC,C R L D D G,C L L D D G,S.J won Off. Zone - S.J #48 HERTL vs L.A #11 KOPITAR,5,37,S.J,L.A
+249,3,HIT,C R L D D G,C L L D D G,"S.J #48 HERTL HIT L.A #23 BROWN, Def. Zone",5,19,S.J,L.A
+250,3,HIT,C C R D D G,C C R D D G,"L.A #28 ANDERSON-DOLAN HIT S.J #44 VLASIC, Off. Zone",4,07,S.J,L.A
+251,3,GIVE,C C C D D G,C R L D D G,"L.A GIVEAWAY - #44 ANDERSON, Def. Zone",3,36,S.J,L.A
+252,3,SHOT,C L L D D G,C L L D D G,"L.A ONGOAL - #19 IAFALLO, Wrist, Off. Zone, 52 ft.",2,47,S.J,L.A
+253,3,MISS,C L L D D G,C L L D D G,"L.A #71 STRAND, Slap, Wide of Net, Off. Zone, 58 ft.",2,38,S.J,L.A
+254,3,MISS,C R L D D G,C C L D D G,"S.J #28 MEIER, Wrist, Wide of Net, Off. Zone, 27 ft.",1,59,S.J,L.A
+255,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #43 LEONARD, Wrist, Off. Zone, 39 ft.",1,43,S.J,L.A
+256,3,MISS,C R L D D G,C C L D D G,"S.J #43 LEONARD, Wrist, Wide of Net, Off. Zone, 33 ft.",1,35,S.J,L.A
+257,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #28 MEIER, Wrap-around, Off. Zone, 11 ft.",1,31,S.J,L.A
+258,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #28 MEIER, Wrist, Off. Zone, 8 ft.",1,30,S.J,L.A
+259,3,STOP,C R L D D G,C C L D D G,ICING,1,21,S.J,L.A
+260,3,FAC,C R L D D G,C C L D D G,L.A won Def. Zone - S.J #39 COUTURE vs L.A #13 VILARDI,1,21,S.J,L.A
+261,3,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #9 KANE, Tip-In, Off. Zone, 10 ft.",1,09,S.J,L.A
+262,3,SHOT,C C R D D G,C C R D D G,"S.J ONGOAL - #16 DONATO, Snap, Off. Zone, 31 ft.",0,22,S.J,L.A
+263,3,PEND,C C R D D G,C C R D D G,Period End- Local time: 9:31 PST,0,00,S.J,L.A
+264,3,GEND,,,Game End- Local time: 9:31 PST,0,00,S.J,L.A

@@ -1,0 +1,276 @@
+n_row,period,event,away_line,home_line,description,minute,second,away_team,home_team
+1,1,PSTR,C C C D D G,C L L D D G,Period Start- Local time: 7:08 EDT,20,00,S.J,N.J
+2,1,FAC,C C C D D G,C L L D D G,N.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,20,00,S.J,N.J
+3,1,STOP,C C C D D G,C L L D D G,ICING,19,52,S.J,N.J
+4,1,FAC,C C C D D G,C L L D D G,S.J won Def. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,19,52,S.J,N.J
+5,1,HIT,C C C D D G,C L L D D G,"N.J #26 ELIAS HIT S.J #8 PAVELSKI, Def. Zone",19,32,S.J,N.J
+6,1,SHOT,C C C D D G,C L L D D G,"S.J ONGOAL - #19 THORNTON, Wrist, Off. Zone, 37 ft.",19,31,S.J,N.J
+7,1,PENL,C C R D D G,C R L D D G,"N.J #12 PALMIERI Illegal check to head(2 min), Neu. Zone Drawn By: S.J #17 MITCHELL",19,01,S.J,N.J
+8,1,FAC,C C C D D G,C L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #16 JOSEFSON,19,01,S.J,N.J
+9,1,TAKE,C R L D D G,L L D D G,"S.J TAKEAWAY - #60 DEMERS, Def. Zone",17,12,S.J,N.J
+10,1,SHOT,C L L D D G,C R L D D G,"S.J ONGOAL - #28 MURRAY, Wrist, Off. Zone, 35 ft.",16,37,S.J,N.J
+11,1,PENL,C L L D D G,C R L D D G,"S.J #10 WINCHESTER Interference on goalkeeper(2 min), Off. Zone Drawn By: N.J #1 HEDBERG",16,33,S.J,N.J
+12,1,FAC,C C D D G,R L L L D G,S.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,16,33,S.J,N.J
+13,1,STOP,C C D D G,R L L L D G,PUCK IN NETTING,16,07,S.J,N.J
+14,1,FAC,C C D D G,R L L L D G,N.J won Neu. Zone - S.J #39 COUTURE vs N.J #23 CLARKSON,16,07,S.J,N.J
+15,1,SHOT,C C D D G,R L L L D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 36 ft.",15,57,S.J,N.J
+16,1,GIVE,C C D D G,R L L L D G,"N.J GIVEAWAY - #5 LARSSON, Def. Zone",15,56,S.J,N.J
+17,1,STOP,C C D D G,C R R L D G,GOALIE STOPPED,15,56,S.J,N.J
+18,1,FAC,C C D D G,C R R L D G,N.J won Def. Zone - S.J #39 COUTURE vs N.J #15 SYKORA,15,56,S.J,N.J
+19,1,GIVE,C C D D G,C R R L D G,"N.J GIVEAWAY - #8 ZUBRUS, Off. Zone",15,01,S.J,N.J
+20,1,SHOT,C C D D G,R L L L D G,"N.J ONGOAL - #23 CLARKSON, Wrist, Off. Zone, 17 ft.",14,43,S.J,N.J
+21,1,STOP,C R L D D G,R R L D D G,ICING,14,17,S.J,N.J
+22,1,FAC,C R L D D G,R R L D D G,S.J won Def. Zone - S.J #39 COUTURE vs N.J #15 SYKORA,14,17,S.J,N.J
+23,1,BLOCK,C R L D D G,R R L D D G,"S.J #39 COUTURE BLOCKED BY  N.J #28 VOLCHENKOV, Wrist, Def. Zone",13,37,S.J,N.J
+24,1,SHOT,C R L D D G,R R L D D G,"S.J ONGOAL - #5 WHITE, Snap, Off. Zone, 53 ft.",13,25,S.J,N.J
+25,1,PENL,C C C D D G,C C L D D G,"N.J #22 BOULTON Fighting (maj)(5 min), Off. Zone Drawn By: S.J #3 MURRAY",12,39,S.J,N.J
+26,1,PENL,C C C D D G,C C D D G,"S.J #3 MURRAY Fighting (maj)(5 min), Def. Zone Drawn By: N.J #22 BOULTON",12,39,S.J,N.J
+27,1,STOP,C C C D G,C R L D D G,TV TIMEOUT,12,39,S.J,N.J
+28,1,FAC,C C C D D G,C L L D D G,S.J won Off. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,12,39,S.J,N.J
+29,1,MISS,C C C D D G,C L L D D G,"S.J #8 PAVELSKI, Deflected, Wide of Net, Off. Zone, 17 ft.",12,17,S.J,N.J
+30,1,HIT,C C C D D G,C C L D D G,"S.J #5 WHITE HIT N.J #8 ZUBRUS, Neu. Zone",12,06,S.J,N.J
+31,1,SHOT,C C C D D G,C R L D D G,"N.J ONGOAL - #29 FAYNE, Snap, Off. Zone, 46 ft.",11,47,S.J,N.J
+32,1,BLOCK,C R L D D G,R L L D D G,"N.J #5 LARSSON BLOCKED BY  S.J #88 BURNS, Wrist, Def. Zone",11,03,S.J,N.J
+33,1,HIT,C C C D D G,C L L D D G,"N.J #8 ZUBRUS HIT S.J #5 WHITE, Neu. Zone",9,34,S.J,N.J
+34,1,SHOT,C C L D D G,C L L D D G,"S.J ONGOAL - #10 WINCHESTER, Wrist, Off. Zone, 45 ft.",9,22,S.J,N.J
+35,1,GIVE,C C L D D G,C L L D D G,"N.J GIVEAWAY - #26 ELIAS, Def. Zone",9,17,S.J,N.J
+36,1,SHOT,C C R D D G,C R L D D G,"N.J ONGOAL - #6 GREENE, Slap, Off. Zone, 68 ft.",8,19,S.J,N.J
+37,1,STOP,,,"OFFSIDE,TV TIMEOUT",7,33,S.J,N.J
+38,1,FAC,C R L D D G,R R L D D G,S.J won Neu. Zone - S.J #26 HANDZUS vs N.J #23 CLARKSON,7,33,S.J,N.J
+39,1,PENL,C R L D D G,R L L L D G,"S.J #3 MURRAY Roughing(2 min), Def. Zone Drawn By: N.J #23 CLARKSON",7,11,S.J,N.J
+40,1,FAC,C C D D G,R L L L D G,S.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,7,11,S.J,N.J
+41,1,STOP,C C D D G,R L L L D G,OFFSIDE,6,53,S.J,N.J
+42,1,FAC,C C D D G,R L L L D G,S.J won Neu. Zone - S.J #26 HANDZUS vs N.J #23 CLARKSON,6,53,S.J,N.J
+43,1,BLOCK,C C D D G,R L L L D G,"N.J #17 KOVALCHUK BLOCKED BY  S.J #28 MURRAY, Slap, Def. Zone",6,16,S.J,N.J
+44,1,GOAL,C C D D G,R L L L D G,"N.J #26 ELIAS(2), Wrist, Off. Zone, 26 ft.Assists: #17 KOVALCHUK(3); #23 CLARKSON(1)",6,07,S.J,N.J
+45,1,FAC,C R L D D G,C C L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs N.J #10 PELLEY,6,07,S.J,N.J
+46,1,GIVE,C R L D D G,C C L D D G,"S.J GIVEAWAY - #29 CLOWE, Off. Zone",5,44,S.J,N.J
+47,1,SHOT,C R L D D G,C C L D D G,"S.J ONGOAL - #29 CLOWE, Deflected, Off. Zone, 11 ft.",5,42,S.J,N.J
+48,1,BLOCK,C R L D D G,C C L D D G,"S.J #9 HAVLAT BLOCKED BY  N.J #7 TALLINDER, Wrist, Def. Zone",5,16,S.J,N.J
+49,1,STOP,C R L D D G,C R L D D G,"OFFSIDE,TV TIMEOUT",5,08,S.J,N.J
+50,1,FAC,C C C D D G,C L L D D G,N.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,5,08,S.J,N.J
+51,1,PENL,C C C D D G,R L L L D G,"S.J #19 THORNTON Cross checking(2 min), Def. Zone Drawn By: N.J #9 PARISE",4,38,S.J,N.J
+52,1,FAC,C C D D G,R L L L D G,S.J won Def. Zone - S.J #26 HANDZUS vs N.J #26 ELIAS,4,38,S.J,N.J
+53,1,BLOCK,C C D D G,R L L L D G,"N.J #5 LARSSON BLOCKED BY  S.J #39 COUTURE, Wrist, Def. Zone",4,05,S.J,N.J
+54,1,HIT,C C D D G,R L L L D G,"S.J #39 COUTURE HIT N.J #5 LARSSON, Def. Zone",4,01,S.J,N.J
+55,1,SHOT,C R D D G,R L L L D G,"N.J ONGOAL - #9 PARISE, Deflected, Off. Zone, 13 ft.",3,42,S.J,N.J
+56,1,BLOCK,C L D D G,R L L L D G,"N.J #26 ELIAS BLOCKED BY  S.J #8 PAVELSKI, Slap, Def. Zone",3,28,S.J,N.J
+57,1,SHOT,C L D D G,C R R L D G,"N.J ONGOAL - #12 PALMIERI, Wrist, Off. Zone, 39 ft.",2,42,S.J,N.J
+58,1,STOP,C C R D D G,C C L D D G,ICING,2,20,S.J,N.J
+59,1,FAC,C C R D D G,C C L D D G,S.J won Def. Zone - S.J #26 HANDZUS vs N.J #10 PELLEY,2,20,S.J,N.J
+60,1,STOP,C C R D D G,C C L D D G,GOALIE STOPPED,2,08,S.J,N.J
+61,1,FAC,C R L D D G,C R L D D G,N.J won Def. Zone - S.J #39 COUTURE vs N.J #15 SYKORA,2,08,S.J,N.J
+62,1,HIT,C R L D D G,C L L D D G,"S.J #5 WHITE HIT N.J #8 ZUBRUS, Def. Zone",1,54,S.J,N.J
+63,1,STOP,C R L D D G,R L L D D G,ICING,1,29,S.J,N.J
+64,1,FAC,C R L D D G,R L L D D G,S.J won Def. Zone - S.J #39 COUTURE vs N.J #23 CLARKSON,1,29,S.J,N.J
+65,1,GIVE,C R L D D G,R L L D D G,"N.J GIVEAWAY - #26 ELIAS, Off. Zone",1,04,S.J,N.J
+66,1,STOP,C R L D D G,R L L D D G,ICING,1,00,S.J,N.J
+67,1,FAC,C R L D D G,C C L D D G,S.J won Def. Zone - S.J #39 COUTURE vs N.J #11 MILLS,1,00,S.J,N.J
+68,1,PENL,C C C D D G,C C L D D G,"N.J #5 LARSSON Holding the stick(2 min), Def. Zone Drawn By: S.J #19 THORNTON",0,31,S.J,N.J
+69,1,FAC,C C C D D G,L L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,0,31,S.J,N.J
+70,1,SHOT,C C C D D G,L L D D G,"S.J ONGOAL - #8 PAVELSKI, Wrist, Off. Zone, 13 ft.",0,17,S.J,N.J
+71,1,GIVE,C C C D D G,L L D D G,"N.J GIVEAWAY - #26 ELIAS, Def. Zone",0,04,S.J,N.J
+72,1,PEND,C C C D D G,L L D D G,Period End- Local time: 7:43 EDT,0,00,S.J,N.J
+73,2,PSTR,L L D D G,,Period Start- Local time: 8:00 EDT,20,00,S.J,N.J
+74,2,FAC,C C C D D G,L L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,20,00,S.J,N.J
+75,2,SHOT,C C C D D G,L L D D G,"S.J ONGOAL - #8 PAVELSKI, Slap, Def. Zone, 130 ft.",19,39,S.J,N.J
+76,2,PENL,C C C D D G,L L D D G,"S.J #88 BURNS PS-Hooking on breakaway(0 min), Def. Zone Drawn By: N.J #9 PARISE",19,24,S.J,N.J
+77,2,GOAL,,,"N.J #9 PARISE(3), Penalty Shot, Backhand, Off. Zone, 17 ft.",19,24,S.J,N.J
+78,2,FAC,C R L D D G,C L D D G,N.J won Neu. Zone - S.J #29 CLOWE vs N.J #8 ZUBRUS,19,24,S.J,N.J
+79,2,MISS,C R L D D G,C L D D G,"S.J #22 BOYLE, Slap, Wide of Net, Off. Zone, 66 ft.",18,53,S.J,N.J
+80,2,STOP,C R L D D G,C L D D G,OFFSIDE,18,40,S.J,N.J
+81,2,FAC,C R L D D G,C L D D G,S.J won Neu. Zone - S.J #26 HANDZUS vs N.J #11 MILLS,18,40,S.J,N.J
+82,2,BLOCK,C R L D D G,C L D D D G,"S.J #44 VLASIC BLOCKED BY  N.J #28 VOLCHENKOV, Snap, Def. Zone",17,57,S.J,N.J
+83,2,SHOT,C R L D D G,C L D D D G,"S.J ONGOAL - #78 FERRIERO, Snap, Off. Zone, 49 ft.",17,55,S.J,N.J
+84,2,STOP,C C C D D G,R L L D D G,GOALIE STOPPED,17,54,S.J,N.J
+85,2,FAC,C C C D D G,R L L D D G,S.J won Off. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,17,54,S.J,N.J
+86,2,STOP,C C C D D G,R L L D D G,OFFSIDE,17,45,S.J,N.J
+87,2,FAC,C C C D D G,R L L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,17,45,S.J,N.J
+88,2,SHOT,C C C D D G,R L L D D G,"S.J ONGOAL - #22 BOYLE, Slap, Off. Zone, 60 ft.",17,31,S.J,N.J
+89,2,SHOT,C C C D D G,R L L D D G,"S.J ONGOAL - #22 BOYLE, Snap, Off. Zone, 24 ft.",17,17,S.J,N.J
+90,2,STOP,C C C D D G,R L L D D G,GOALIE STOPPED,17,16,S.J,N.J
+91,2,FAC,C R L D D G,C R L D D G,S.J won Off. Zone - S.J #39 COUTURE vs N.J #17 KOVALCHUK,17,16,S.J,N.J
+92,2,MISS,C R L D D G,C R L D D G,"S.J #39 COUTURE, Wrist, Goalpost, Off. Zone, 31 ft.",17,02,S.J,N.J
+93,2,GIVE,C R L D D G,C R L D D G,"S.J GIVEAWAY - #88 BURNS, Off. Zone",16,59,S.J,N.J
+94,2,MISS,C R L D D G,C R L D D G,"N.J #12 PALMIERI, Wrist, Goalpost, Off. Zone, 29 ft.",16,51,S.J,N.J
+95,2,BLOCK,C R L D D G,C R L D D G,"S.J #29 CLOWE BLOCKED BY  N.J #6 GREENE, Wrist, Def. Zone",16,30,S.J,N.J
+96,2,GIVE,C R L D D G,C R L D D G,"N.J GIVEAWAY - #5 LARSSON, Def. Zone",16,25,S.J,N.J
+97,2,SHOT,C R L D D G,C R L D D G,"S.J ONGOAL - #64 MCGINN, Slap, Off. Zone, 55 ft.",16,19,S.J,N.J
+98,2,STOP,C R L D D G,C R L D D G,OFFSIDE,16,15,S.J,N.J
+99,2,FAC,C R L D D G,C R L D D G,S.J won Neu. Zone - S.J #28 MURRAY vs N.J #11 MILLS,16,15,S.J,N.J
+100,2,STOP,C R L D D G,C R L D D G,ICING,15,47,S.J,N.J
+101,2,FAC,C L L D D G,C L L D D G,S.J won Def. Zone - S.J #26 HANDZUS vs N.J #10 PELLEY,15,47,S.J,N.J
+102,2,MISS,C L L D D G,L L L D D G,"N.J #6 GREENE, Wrist, Wide of Net, Off. Zone, 59 ft.",14,52,S.J,N.J
+103,2,SHOT,C L L D D G,R L L D D G,"N.J ONGOAL - #26 ELIAS, Wrist, Off. Zone, 40 ft.",14,40,S.J,N.J
+104,2,SHOT,C C C D D G,C R L D D G,"S.J ONGOAL - #8 PAVELSKI, Backhand, Off. Zone, 15 ft.",13,52,S.J,N.J
+105,2,GIVE,C C C D D G,C R L D D G,"N.J GIVEAWAY - #5 LARSSON, Def. Zone",13,48,S.J,N.J
+106,2,MISS,C C L D D G,C R L D D G,"N.J #28 VOLCHENKOV, Slap, Wide of Net, Off. Zone, 55 ft.",13,34,S.J,N.J
+107,2,STOP,C C L D D G,C R L D D G,TV TIMEOUT,13,26,S.J,N.J
+108,2,PENL,C C L D D G,C R L D D G,"N.J #24 SALVADOR Interference(2 min), Neu. Zone Drawn By: S.J #39 COUTURE",13,26,S.J,N.J
+109,2,FAC,C C C D D G,C L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,13,26,S.J,N.J
+110,2,MISS,C C C D D G,C L D D G,"N.J #29 FAYNE, Deflected, Over Net, Def. Zone, 171 ft.",12,43,S.J,N.J
+111,2,STOP,C C C D D G,C L D D G,PUCK IN NETTING,12,41,S.J,N.J
+112,2,BLOCK,C R L D D G,L L D D G,"S.J #9 HAVLAT BLOCKED BY  N.J #28 VOLCHENKOV, Slap, Def. Zone",12,41,S.J,N.J
+113,2,FAC,C R L D D G,L L D D G,N.J won Def. Zone - S.J #39 COUTURE vs N.J #26 ELIAS,12,41,S.J,N.J
+114,2,SHOT,C R L D D G,L L D D G,"S.J ONGOAL - #29 CLOWE, Wrist, Off. Zone, 22 ft.",12,34,S.J,N.J
+115,2,SHOT,C R L D D G,L L D D G,"S.J ONGOAL - #60 DEMERS, Wrist, Off. Zone, 16 ft.",12,33,S.J,N.J
+116,2,STOP,C R L D D G,L L D D G,GOALIE STOPPED,12,31,S.J,N.J
+117,2,FAC,C R L D D G,L L D D G,N.J won Def. Zone - S.J #39 COUTURE vs N.J #26 ELIAS,12,31,S.J,N.J
+118,2,SHOT,C R L D D G,C L D D G,"S.J ONGOAL - #29 CLOWE, Wrap-around, Off. Zone, 11 ft.",11,59,S.J,N.J
+119,2,STOP,C C C D D G,C L D D G,GOALIE STOPPED,11,58,S.J,N.J
+120,2,FAC,C C C D D G,C L D D G,S.J won Off. Zone - S.J #12 MARLEAU vs N.J #8 ZUBRUS,11,58,S.J,N.J
+121,2,MISS,C C C D D G,C L D D G,"S.J #88 BURNS, Slap, Wide of Net, Off. Zone, 32 ft.",11,54,S.J,N.J
+122,2,SHOT,C C C D D G,C L D D G,"S.J ONGOAL - #22 BOYLE, Wrist, Off. Zone, 15 ft.",11,28,S.J,N.J
+123,2,BLOCK,C R L D D G,C R L D D G,"S.J #78 FERRIERO BLOCKED BY  N.J #5 LARSSON, Wrist, Def. Zone",10,52,S.J,N.J
+124,2,HIT,C R L D D G,C R L D D G,"S.J #10 WINCHESTER HIT N.J #11 MILLS, Neu. Zone",10,41,S.J,N.J
+125,2,SHOT,C R L D D G,C R L D D G,"N.J ONGOAL - #24 SALVADOR, Wrist, Off. Zone, 42 ft.",10,09,S.J,N.J
+126,2,STOP,C R L D D G,C R L D D G,GOALIE STOPPED,10,07,S.J,N.J
+127,2,FAC,C L L D D G,C R L D D G,N.J won Off. Zone - S.J #39 COUTURE vs N.J #8 ZUBRUS,10,07,S.J,N.J
+128,2,SHOT,C L L D D G,C R L D D G,"N.J ONGOAL - #24 SALVADOR, Snap, Off. Zone, 63 ft.",10,06,S.J,N.J
+129,2,PENL,C L L D D G,C R L D D G,"N.J #12 PALMIERI Interference on goalkeeper(2 min), Off. Zone Drawn By: S.J #31 NIEMI",10,05,S.J,N.J
+130,2,FAC,C C C D D G,L L D D G,S.J won Off. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,10,05,S.J,N.J
+131,2,SHOT,C C C D D G,L L D D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 22 ft.",9,46,S.J,N.J
+132,2,STOP,C R L D D G,C L D D G,OFFSIDE,9,23,S.J,N.J
+133,2,FAC,C R L D D G,C L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs N.J #21 TEDENBY,9,23,S.J,N.J
+134,2,STOP,C R L D D G,C L D D G,GOALIE STOPPED,9,09,S.J,N.J
+135,2,FAC,C R L D D G,C L D D G,S.J won Off. Zone - S.J #39 COUTURE vs N.J #8 ZUBRUS,9,09,S.J,N.J
+136,2,SHOT,C R L D D G,C L D D G,"S.J ONGOAL - #22 BOYLE, Slap, Off. Zone, 54 ft.",8,59,S.J,N.J
+137,2,STOP,C R L D D G,C L D D G,HAND PASS,8,30,S.J,N.J
+138,2,FAC,C C C D D G,C C D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #11 MILLS,8,30,S.J,N.J
+139,2,SHOT,C C C D D G,C C D D G,"S.J ONGOAL - #8 PAVELSKI, Wrist, Off. Zone, 34 ft.",8,20,S.J,N.J
+140,2,STOP,C C C D D G,C C D D G,GOALIE STOPPED,8,19,S.J,N.J
+141,2,FAC,C C C D D G,L L D D G,S.J won Off. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,8,19,S.J,N.J
+142,2,SHOT,C C C D D G,R L L D D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 17 ft.",8,03,S.J,N.J
+143,2,STOP,C C C D D G,R L L D D G,"GOALIE STOPPED,TV TIMEOUT",7,55,S.J,N.J
+144,2,FAC,C R L D D G,C R L D D G,N.J won Off. Zone - S.J #26 HANDZUS vs N.J #11 MILLS,7,55,S.J,N.J
+145,2,STOP,C R L D D G,C R L D D G,PUCK IN BENCHES,7,45,S.J,N.J
+146,2,FAC,C R L D D G,C R L D D G,N.J won Neu. Zone - S.J #26 HANDZUS vs N.J #11 MILLS,7,45,S.J,N.J
+147,2,HIT,C R L D D G,C R L D D G,"S.J #5 WHITE HIT N.J #23 CLARKSON, Neu. Zone",7,36,S.J,N.J
+148,2,STOP,C R L D D G,C R L D D G,OFFSIDE,7,23,S.J,N.J
+149,2,FAC,C R L D D G,C R L D D G,N.J won Neu. Zone - S.J #39 COUTURE vs N.J #8 ZUBRUS,7,23,S.J,N.J
+150,2,STOP,C R L D D G,C R L D D G,OFFSIDE,7,19,S.J,N.J
+151,2,FAC,C R L D D G,C R L D D G,S.J won Neu. Zone - S.J #39 COUTURE vs N.J #8 ZUBRUS,7,19,S.J,N.J
+152,2,SHOT,C R L D D G,C R L D D G,"S.J ONGOAL - #39 COUTURE, Backhand, Off. Zone, 32 ft.",6,48,S.J,N.J
+153,2,STOP,C R L D D G,C R L D D G,GOALIE STOPPED,6,36,S.J,N.J
+154,2,FAC,C C C D D G,R L L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,6,36,S.J,N.J
+155,2,MISS,C C C D D G,R L L D D G,"S.J #8 PAVELSKI, Tip-In, Wide of Net, Off. Zone, 16 ft.",5,55,S.J,N.J
+156,2,TAKE,C C C D D G,R L L D D G,"S.J TAKEAWAY - #12 MARLEAU, Neu. Zone",5,48,S.J,N.J
+157,2,SHOT,C C C D D G,R L L D D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 22 ft.",5,47,S.J,N.J
+158,2,STOP,C C C D D G,C L L D D G,"GOALIE STOPPED,TV TIMEOUT",5,45,S.J,N.J
+159,2,FAC,C C L D D G,C L L D D G,N.J won Def. Zone - S.J #26 HANDZUS vs N.J #10 PELLEY,5,45,S.J,N.J
+160,2,SHOT,C C L D D G,C L L D D G,"S.J ONGOAL - #28 MURRAY, Wrist, Off. Zone, 48 ft.",5,09,S.J,N.J
+161,2,HIT,C C L D D G,C L L D D G,"N.J #10 PELLEY HIT S.J #28 MURRAY, Off. Zone",5,08,S.J,N.J
+162,2,GOAL,C C C D D G,C R L D D G,"S.J #19 THORNTON(1), Wrist, Off. Zone, 28 ft.Assists: #8 PAVELSKI(1); #22 BOYLE(3)",4,42,S.J,N.J
+163,2,FAC,C C C D D G,C R L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #11 MILLS,4,42,S.J,N.J
+164,2,HIT,C C C D D G,C R L D D G,"S.J #3 MURRAY HIT N.J #11 MILLS, Neu. Zone",4,08,S.J,N.J
+165,2,GIVE,C R L D D G,R L L D D G,"N.J GIVEAWAY - #24 SALVADOR, Def. Zone",3,50,S.J,N.J
+166,2,SHOT,C R L D D G,R L L D D G,"S.J ONGOAL - #39 COUTURE, Wrist, Off. Zone, 20 ft.",3,47,S.J,N.J
+167,2,GOAL,C R L D D G,R L L D D G,"S.J #29 CLOWE(2), Wrist, Off. Zone, 6 ft.Assists: #9 HAVLAT(1); #39 COUTURE(2)",3,39,S.J,N.J
+168,2,FAC,C R L D D G,C L L D D G,N.J won Neu. Zone - S.J #26 HANDZUS vs N.J #8 ZUBRUS,3,39,S.J,N.J
+169,2,MISS,C R L D D G,C R L D D G,"N.J #12 PALMIERI, Deflected, Wide of Net, Off. Zone, 12 ft.",3,27,S.J,N.J
+170,2,SHOT,C R L D D G,C R L D D G,"N.J ONGOAL - #8 ZUBRUS, Wrist, Off. Zone, 43 ft.",3,16,S.J,N.J
+171,2,BLOCK,C R L D D G,C R L D D G,"N.J #29 FAYNE BLOCKED BY  S.J #64 MCGINN, Snap, Def. Zone",3,02,S.J,N.J
+172,2,PENL,C C C D D G,R L L L D G,"S.J #22 BOYLE Hi-sticking(2 min), Def. Zone Drawn By: N.J #23 CLARKSON",2,11,S.J,N.J
+173,2,FAC,C C D D G,R L L L D G,S.J won Def. Zone - S.J #39 COUTURE vs N.J #26 ELIAS,2,11,S.J,N.J
+174,2,MISS,C C D D G,R L L L D G,"S.J #39 COUTURE, Wrist, Wide of Net, Off. Zone, 17 ft.",1,59,S.J,N.J
+175,2,STOP,C C D D G,R L L L D G,OFFSIDE,1,49,S.J,N.J
+176,2,FAC,C C D D G,R L L L D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,1,49,S.J,N.J
+177,2,MISS,C C D D G,R R L L D G,"N.J #23 CLARKSON, Wrist, Wide of Net, Off. Zone, 37 ft.",1,13,S.J,N.J
+178,2,HIT,C C D D G,C R R L D G,"S.J #3 MURRAY HIT N.J #12 PALMIERI, Def. Zone",0,54,S.J,N.J
+179,2,GIVE,C C D D G,C C R L D G,"N.J GIVEAWAY - #17 KOVALCHUK, Neu. Zone",0,18,S.J,N.J
+180,2,GIVE,C C L D D G,C C L L D G,"N.J GIVEAWAY - #17 KOVALCHUK, Neu. Zone",0,02,S.J,N.J
+181,2,PEND,C C L D D G,C C L L D G,Period End- Local time: 8:41 EDT,0,00,S.J,N.J
+182,3,PSTR,C C C D D G,R L L D D G,Period Start- Local time: 8:59 EDT,20,00,S.J,N.J
+183,3,FAC,C C C D D G,R L L D D G,N.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,20,00,S.J,N.J
+184,3,HIT,C R L D D G,C R L D D G,"S.J #44 VLASIC HIT N.J #8 ZUBRUS, Def. Zone",19,08,S.J,N.J
+185,3,SHOT,C R L D D G,C R L D D G,"S.J ONGOAL - #29 CLOWE, Slap, Off. Zone, 61 ft.",18,56,S.J,N.J
+186,3,HIT,C C C D D G,C L L D D G,"N.J #22 BOULTON HIT S.J #8 PAVELSKI, Off. Zone",17,20,S.J,N.J
+187,3,SHOT,C C C D D G,C L L D D G,"S.J ONGOAL - #19 THORNTON, Backhand, Off. Zone, 10 ft.",17,16,S.J,N.J
+188,3,SHOT,C C C D D G,C L L D D G,"S.J ONGOAL - #19 THORNTON, Backhand, Off. Zone, 12 ft.",17,15,S.J,N.J
+189,3,STOP,C C C D D G,C L L D D G,GOALIE STOPPED,17,13,S.J,N.J
+190,3,FAC,C R L D D G,R L L D D G,S.J won Off. Zone - S.J #39 COUTURE vs N.J #26 ELIAS,17,13,S.J,N.J
+191,3,MISS,C R L D D G,R L L D D G,"S.J #29 CLOWE, Deflected, Wide of Net, Off. Zone, 13 ft.",16,50,S.J,N.J
+192,3,MISS,C R L D D G,R L L D D G,"S.J #29 CLOWE, Wrist, Wide of Net, Off. Zone, 27 ft.",16,33,S.J,N.J
+193,3,TAKE,C C C D D G,C R L D D G,"N.J TAKEAWAY - #8 ZUBRUS, Off. Zone",15,27,S.J,N.J
+194,3,BLOCK,C C C D D G,C R L D D G,"N.J #23 CLARKSON BLOCKED BY  S.J #3 MURRAY, Wrist, Def. Zone",15,25,S.J,N.J
+195,3,GIVE,C C C D D G,C R L D D G,"N.J GIVEAWAY - #17 KOVALCHUK, Off. Zone",15,10,S.J,N.J
+196,3,GIVE,C C C D D G,C R L D D G,"N.J GIVEAWAY - #24 SALVADOR, Def. Zone",14,58,S.J,N.J
+197,3,TAKE,C C C D D G,C R L D D G,"S.J TAKEAWAY - #39 COUTURE, Off. Zone",14,51,S.J,N.J
+198,3,GIVE,C R L D D G,C R L D D G,"N.J GIVEAWAY - #17 KOVALCHUK, Def. Zone",14,27,S.J,N.J
+199,3,STOP,C R L D D G,R L L D D G,ICING,14,13,S.J,N.J
+200,3,FAC,C R L D D G,R L L D D G,N.J won Def. Zone - S.J #26 HANDZUS vs N.J #15 SYKORA,14,13,S.J,N.J
+201,3,SHOT,C R L D D G,R L L D D G,"S.J ONGOAL - #64 MCGINN, Wrist, Off. Zone, 60 ft.",14,07,S.J,N.J
+202,3,STOP,C R L D D G,R L L D D G,GOALIE STOPPED,14,06,S.J,N.J
+203,3,FAC,C R L D D G,R L L D D G,S.J won Off. Zone - S.J #26 HANDZUS vs N.J #26 ELIAS,14,06,S.J,N.J
+204,3,MISS,C R L D D G,R L L D D G,"S.J #88 BURNS, Wrist, Wide of Net, Off. Zone, 62 ft.",14,02,S.J,N.J
+205,3,SHOT,C C C D D G,C L L D D G,"S.J ONGOAL - #22 BOYLE, Wrist, Off. Zone, 37 ft.",13,16,S.J,N.J
+206,3,PENL,C C C C D D,C L L D D G,"N.J #10 PELLEY Tripping(2 min), Def. Zone Drawn By: S.J #19 THORNTON",12,57,S.J,N.J
+207,3,STOP,C C D D G,,TV TIMEOUT,12,57,S.J,N.J
+208,3,FAC,C R L D D G,C C D D G,N.J won Def. Zone - S.J #39 COUTURE vs N.J #11 MILLS,12,57,S.J,N.J
+209,3,SHOT,C C L D D G,L L D D G,"N.J ONGOAL - #9 PARISE, Wrist, Off. Zone, 51 ft.",12,13,S.J,N.J
+210,3,STOP,C C L D D G,L L D D G,GOALIE STOPPED,12,10,S.J,N.J
+211,3,FAC,C C C D D G,L L D D G,S.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,12,10,S.J,N.J
+212,3,HIT,C C C D D G,L L D D G,"N.J #7 TALLINDER HIT S.J #22 BOYLE, Def. Zone",11,53,S.J,N.J
+213,3,SHOT,C C C D D G,L L D D G,"S.J ONGOAL - #12 MARLEAU, Wrist, Off. Zone, 41 ft.",11,48,S.J,N.J
+214,3,STOP,C C C D D G,C L D D G,GOALIE STOPPED,11,47,S.J,N.J
+215,3,FAC,C C C D D G,C L D D G,S.J won Off. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,11,47,S.J,N.J
+216,3,SHOT,C C C D D G,C L D D G,"S.J ONGOAL - #88 BURNS, Backhand, Off. Zone, 24 ft.",11,44,S.J,N.J
+217,3,STOP,C C C D D G,C L D D G,GOALIE STOPPED,11,43,S.J,N.J
+218,3,FAC,C C C D D G,C L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,11,43,S.J,N.J
+219,3,SHOT,C C C D D G,C L D D G,"S.J ONGOAL - #8 PAVELSKI, Backhand, Off. Zone, 30 ft.",10,58,S.J,N.J
+220,3,BLOCK,C R L D D G,C L D D G,"N.J #11 MILLS BLOCKED BY  S.J #88 BURNS, Wrist, Def. Zone",10,51,S.J,N.J
+221,3,SHOT,C R L D D G,C R L D D G,"N.J ONGOAL - #21 TEDENBY, Wrap-around, Off. Zone, 9 ft.",10,27,S.J,N.J
+222,3,MISS,C R L D D G,C R L D D G,"N.J #29 FAYNE, Snap, Wide of Net, Off. Zone, 49 ft.",10,21,S.J,N.J
+223,3,GIVE,C R L D D G,C R L D D G,"N.J GIVEAWAY - #29 FAYNE, Def. Zone",10,10,S.J,N.J
+224,3,STOP,C R L D D G,C R L D D G,"PUCK IN NETTING,TV TIMEOUT",7,57,S.J,N.J
+225,3,FAC,C C C D D G,R L L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,7,57,S.J,N.J
+226,3,BLOCK,C C C D D G,R L L D D G,"N.J #29 FAYNE BLOCKED BY  S.J #22 BOYLE, Wrist, Def. Zone",7,44,S.J,N.J
+227,3,STOP,C C C D D G,R L L D D G,PUCK IN NETTING,7,43,S.J,N.J
+228,3,FAC,C C C D D G,R L L D D G,N.J won Off. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,7,43,S.J,N.J
+229,3,BLOCK,C C C D D G,R L L D D G,"N.J #7 TALLINDER BLOCKED BY  S.J #8 PAVELSKI, Wrist, Def. Zone",7,38,S.J,N.J
+230,3,GOAL,C R L D D G,C R L D D G,"N.J #23 CLARKSON(2), Backhand, Off. Zone, 14 ft.Assists: #21 TEDENBY(2); #6 GREENE(2)",6,42,S.J,N.J
+231,3,FAC,C R L D D G,C L L D D G,S.J won Neu. Zone - S.J #26 HANDZUS vs N.J #8 ZUBRUS,6,42,S.J,N.J
+232,3,STOP,C C C D D G,C L L D D G,"OFFSIDE,TV TIMEOUT",5,53,S.J,N.J
+233,3,FAC,C C C D D G,R L L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,5,53,S.J,N.J
+234,3,SHOT,C R L D D G,C R L D D G,"S.J ONGOAL - #39 COUTURE, Wrist, Off. Zone, 31 ft.",5,01,S.J,N.J
+235,3,SHOT,C R L D D G,C R L D D G,"S.J ONGOAL - #29 CLOWE, Slap, Off. Zone, 47 ft.",4,55,S.J,N.J
+236,3,HIT,C R L D D G,C R L D D G,"S.J #64 MCGINN HIT N.J #12 PALMIERI, Off. Zone",4,06,S.J,N.J
+237,3,STOP,C R L D D G,C R L D D G,ICING,3,59,S.J,N.J
+238,3,FAC,C C C D D G,C R L D D G,N.J won Def. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,3,59,S.J,N.J
+239,3,SHOT,C C C D D G,C R L D D G,"N.J ONGOAL - #17 KOVALCHUK, Wrist, Off. Zone, 48 ft.",3,44,S.J,N.J
+240,3,BLOCK,C C C D D G,C R L D D G,"S.J #19 THORNTON BLOCKED BY  N.J #28 VOLCHENKOV, Snap, Def. Zone",3,32,S.J,N.J
+241,3,SHOT,C C L D D G,R L L D D G,"N.J ONGOAL - #26 ELIAS, Wrist, Off. Zone, 33 ft.",3,20,S.J,N.J
+242,3,SHOT,C C L D D G,R L L D D G,"N.J ONGOAL - #15 SYKORA, Wrist, Off. Zone, 13 ft.",3,18,S.J,N.J
+243,3,STOP,C R L D D G,R L L D D G,GOALIE STOPPED,3,17,S.J,N.J
+244,3,FAC,C R L D D G,C R L D D G,S.J won Def. Zone - S.J #39 COUTURE vs N.J #11 MILLS,3,17,S.J,N.J
+245,3,STOP,C R L D D G,C R L D D G,ICING,3,09,S.J,N.J
+246,3,FAC,C R L D D G,C R L D D G,N.J won Off. Zone - S.J #39 COUTURE vs N.J #11 MILLS,3,09,S.J,N.J
+247,3,SHOT,C R L D D G,R L L D D G,"S.J ONGOAL - #22 BOYLE, Slap, Def. Zone, 119 ft.",1,29,S.J,N.J
+248,3,HIT,C R L D D G,R L L D D G,"N.J #28 VOLCHENKOV HIT S.J #26 HANDZUS, Def. Zone",1,22,S.J,N.J
+249,3,TAKE,C R L D D G,R L L D D G,"N.J TAKEAWAY - #23 CLARKSON, Neu. Zone",1,12,S.J,N.J
+250,3,BLOCK,C R L D D G,R L L D D G,"N.J #23 CLARKSON BLOCKED BY  S.J #26 HANDZUS, Wrist, Def. Zone",1,04,S.J,N.J
+251,3,GOAL,C C C L D D,R L L D D G,"S.J #8 PAVELSKI(3), Wrist, Off. Zone, 16 ft.Assists: #19 THORNTON(2); #29 CLOWE(3)",0,33,S.J,N.J
+252,3,FAC,C C C D D G,C R L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,0,33,S.J,N.J
+253,3,STOP,C C C D D G,C R L D D G,OFFSIDE,0,27,S.J,N.J
+254,3,FAC,C C C D D G,C R L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,0,27,S.J,N.J
+255,3,SHOT,C C C D D G,C R L D D G,"S.J ONGOAL - #3 MURRAY, Wrist, Off. Zone, 35 ft.",0,06,S.J,N.J
+256,3,PEND,C C C D D G,C R L D D G,Period End- Local time: 9:32 EDT,0,00,S.J,N.J
+257,4,PSTR,,,Period Start- Local time: 9:33 EDT,5,00,S.J,N.J
+258,4,FAC,C C D D G,L L D D G,S.J won Neu. Zone - S.J #19 THORNTON vs N.J #26 ELIAS,5,00,S.J,N.J
+259,4,SHOT,C L D D G,L L D D G,"S.J ONGOAL - #88 BURNS, Slap, Off. Zone, 60 ft.",4,08,S.J,N.J
+260,4,MISS,C R D D G,R L D D G,"N.J #17 KOVALCHUK, Backhand, Wide of Net, Off. Zone, 17 ft.",3,27,S.J,N.J
+261,4,STOP,C L D D G,L L D D G,"PUCK IN NETTING,VISITOR TIMEOUT",1,55,S.J,N.J
+262,4,FAC,C C D D G,C L D D G,N.J won Off. Zone - S.J #19 THORNTON vs N.J #8 ZUBRUS,1,55,S.J,N.J
+263,4,SHOT,C C D D G,C L D D G,"N.J ONGOAL - #7 TALLINDER, Wrist, Off. Zone, 60 ft.",1,46,S.J,N.J
+264,4,SHOT,R L D D G,L L D D G,"N.J ONGOAL - #6 GREENE, Wrist, Off. Zone, 35 ft.",0,56,S.J,N.J
+265,4,PEND,,,Period End- Local time: 9:40 EDT,0,00,S.J,N.J
+266,5,PSTR,,,Period Start- Local time: 9:43 EDT,0,00,S.J,N.J
+267,5,GOAL,,,"N.J #17 KOVALCHUK, Backhand, Off. Zone, 7 ft.",0,00,S.J,N.J
+268,5,MISS,,,"S.J #8 PAVELSKI, Wrist, Wide of Net, Off. Zone, 24 ft.",0,00,S.J,N.J
+269,5,SHOT,,,"N.J ONGOAL - #9 PARISE, Backhand, Off. Zone, 13 ft.",0,00,S.J,N.J
+270,5,GOAL,,,"S.J #26 HANDZUS, Snap, Off. Zone, 23 ft.",0,00,S.J,N.J
+271,5,SHOT,,,"N.J ONGOAL - #26 ELIAS, Snap, Off. Zone, 18 ft.",0,00,S.J,N.J
+272,5,GOAL,,,"S.J #29 CLOWE, Backhand, Off. Zone, 15 ft.",0,00,S.J,N.J
+273,5,SOC,,,Shootout Completed- Local time: 9:48 EDT,0,00,S.J,N.J
+274,5,PEND,,,Period End- Local time: 9:48 EDT,0,00,S.J,N.J
+275,5,GEND,,,Game End- Local time: 9:48 EDT,0,00,S.J,N.J
